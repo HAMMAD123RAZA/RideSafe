@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const NotFound = () => {
+const home = () => {
   return (
     <View>
-      <Text>NotFound</Text>
+      <Text>home</Text>
     </View>
   )
 }
 
-export default NotFound
+export default home
