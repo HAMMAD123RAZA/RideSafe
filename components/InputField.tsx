@@ -14,7 +14,7 @@ const InputField = ({ label, labelStyle, value, placeholder, onChangeText,iconCo
           style={tw`px-3 py-2 text-white`} 
           value={value}
           placeholder={placeholder}
-          placeholderTextColor="gray" 
+          placeholderTextColor="black" 
           onChangeText={onChangeText}
         />
       </View>
